@@ -1,6 +1,7 @@
 """
-AmbedkarGPT - KalpIT AI Intern Assignment
+GPT - AI Assignment
 """
+
 
 import os
 from langchain_community.document_loaders import TextLoader
